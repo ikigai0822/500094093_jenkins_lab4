@@ -10,6 +10,11 @@ public class calc {
     {
         return a * b;    
     }
+    public int diff(int a, int b)
+    {
+        return a - b;    
+    }
+    
 
     public static void main(String args[])
     {
